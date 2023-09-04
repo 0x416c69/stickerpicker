@@ -1,6 +1,10 @@
 {
   "packs": [
-    "arh3404.json"
+    "arh3404.json",
+    "Mood2_MoodiSticker_by_demybot.json",
+    "ufoludek_hate.json",
+    "ineedhelppls.json",
+    "Lululz.json"
   ],
   "homeserver_url": "https://matrix.ag5.ir"
 }
